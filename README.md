@@ -13,6 +13,7 @@ Some ideas to get you started knowing me:
 
 - 💬 Ask me about Data Mining | F1 and Rugby. 
 
-- 📫 How to reach me: [@RobinKIplangat](https://twitter.com/RobinKiplangat)
+- 📫 How to reach me: [@RobinKiplangat](https://twitter.com/RobinKiplangat)
 
-- ⚡ Fun fact: Am still in the process of finding my voice ...
+- ⚡ Fun fact: Am still in the process of finding my voice,  enjoy freerunning and occasionnly record podcast
+on life lessons I've picked this far in life ...
