@@ -9,7 +9,7 @@ Some ideas to get you started knowing me:
 
 - 🌱 I’m currently learning NLP
 
-- 🤔 I’m looking for help with underatnding foundations in ML
+- 🤔 I’m looking for help with understanding foundations in ML
 
 - 💬 Ask me about Data Mining | F1 and Rugby. 
 
