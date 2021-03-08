@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Robin Kiplangat, a social entrepreneur and engineer. 
+My name is Robin Kiplangat, a social entrepreneur and engineer.  
+
 
 <!--
 **4bic/4bic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -24,3 +25,5 @@ and advance data science expertise .
 writeups on [Medium](https://medium.com/@RobinKiplangat).
 
 ⚡ Fun fact: I enjoy free running and occasionally record [podcasts on life lessons](https://wasnttaught.online/) I've picked this far in life ...
+![black_white_Robin](https://user-images.githubusercontent.com/5486449/110309607-9e633300-8012-11eb-9cbb-75d5a4370662.jpg)
+
