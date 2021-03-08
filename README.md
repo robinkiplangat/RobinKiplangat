@@ -1,19 +1,26 @@
 ### Hi there 👋
 
+My name is Robin Kiplangat, a social entrepreneur and engineer. 
+
 <!--
 **4bic/4bic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Currently, I am an Investigative data analyst and researcher with [Code For Africa](https://github.com/CodeForAfrica) working on 
+on projects around :
+- Tackling online disinformation
+- Conducting Trainings on Data Driven Journalism and 
+- Working on opensource platforms that seek to [liberate data across Africa](https://data.connectedafrica.net/).
 
-Some ideas to get you started knowing me:
+I am really passionate about working in the social sector  as it provides an avenue to work on problems whose solutions 
+impact livelihood either directly or indirectly and this a huge motivation. 
 
-- 🔭 I’m currently working on projects dealing with Tackling online disinformation
+Through my experience working on civic projects for the past 4 years,  I have come to see how technology and society intersect, 
+bringing about a rise in the diversity and new challenges that ought to be adopted and/ or addressed. 
 
-- 🌱 I’m currently learning NLP
+🤔 I’m workig at increasing my depth with understanding foundations in ML with a keen interest to further my research 
+and advance data science expertise . 
 
-- 🤔 I’m looking for help with understanding foundations in ML
 
-- 💬 Ask me about Data Mining | F1 and Rugby. 
+ 📫 How to reach me: find me on [Twitter](https://twitter.com/RobinKiplangat), [LinkedIn](https://www.linkedin.com/in/robinkiplangat/) with occasional 
+writeups on [Medium](https://medium.com/@RobinKiplangat).
 
-- 📫 How to reach me: [@RobinKiplangat](https://twitter.com/RobinKiplangat)
-
-- ⚡ Fun fact: Am still in the process of finding my voice,  enjoy freerunning and occasionnly record podcast
-on life lessons I've picked this far in life ...
+⚡ Fun fact: I enjoy free running and occasionally record [podcasts on life lessons](https://wasnttaught.online/) I've picked this far in life ...
