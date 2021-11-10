@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robin Kiplang'at, a social entrepreneur and engineer.  
+My name is Robin Kiplang'at, a social entrepreneur, engineer and Product.  
 
 
 <!--
