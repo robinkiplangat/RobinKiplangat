@@ -5,19 +5,19 @@ My name is Robin Kiplang'at, a social entrepreneur, engineer and Product.
 
 <!--
 **4bic/4bic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Currently, I am an Investigative data analyst and researcher with [Code For Africa](https://github.com/CodeForAfrica) working on 
+Currently, I am data analyst / engineer  and products with [Code For Africa](https://github.com/CodeForAfrica) working on 
 on projects around :
 - Tackling online disinformation
-- Conducting Trainings on Data Driven Journalism and 
-- Working on opensource platforms that seek to [liberate data across Africa](https://data.connectedafrica.net/).
+- Technical Training on Data Management & Data Driven  Journalism  
+- Working on shipping open source tools  that seek to [liberate data across Africa](https://data.connectedafrica.net/).
 
 I am really passionate about working in the social sector  as it provides an avenue to work on problems whose solutions 
-impact livelihood either directly or indirectly and this a huge motivation. 
+impact livelihood either directly or indirectly.  
 
-Through my experience working on civic projects for the past 4 years,  I have come to see how technology and society intersect, 
-bringing about a rise in the diversity and new challenges that ought to be adopted and/ or addressed. 
+Through my experience working on civic projects for the past 4 years,  I have deep understanding of how technology and society intersect, 
+how diversity and new dynamics can be adopted and/ or addressed. 
 
-🤔 I’m looking to collaborate on AI and Data Science projects that focus on research in the social science. 
+🤔 I’m looking to collaborate on Technology / Data Science projects in the social science space or social enterprises. 
 
 
  📫 How to reach me: find me on [Twitter](https://twitter.com/RobinKiplangat), [LinkedIn](https://www.linkedin.com/in/robinkiplangat/) with occasional 
