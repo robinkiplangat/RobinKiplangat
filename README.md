@@ -5,7 +5,7 @@ My name is Robin Kiplang'at, a social entrepreneur, engineer and Product.
 
 <!--
 **robinkiplangat/RobinKiplangat/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Currently, I am data analyst / engineer  and products with [Code For Africa](https://github.com/CodeForAfrica) working on 
+Currently, I am data technologist / analyst / engineer  and products with [Code For Africa](https://github.com/CodeForAfrica) working on 
 on projects around :
 - Tackling online disinformation
 - Technical Training on Data Management & Data Driven  Journalism  
