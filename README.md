@@ -10,7 +10,7 @@ Leading [fourbic](https://github.com/fourbic) on driving efforts on digitisation
 🤔 Looking for collaborations on Technology and Society projects .   
 
 
- 📫 How to reach me: find me on [Twitter](https://twitter.com/RobinKiplangat)
+ 📫 Reach on [Twitter](https://twitter.com/RobinKiplangat)
  
 <!--[black_white_Robin](https://user-images.githubusercontent.com/5486449/110309607-9e633300-8012-11eb-9cbb-75d5a4370662.jpg) -->
 
