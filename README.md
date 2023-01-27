@@ -7,7 +7,7 @@ My name is Robin Kiplang'at, a social entrepreneur, engineer and Product.
 **robinkiplangat/RobinKiplangat/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 Leading [fourbic](https://github.com/fourbic) on driving efforts on digitisation and provision for customised data product services.
 
-🤔 Looking for collaborations on Technology and Society projects .   
+🤔 Looking for collaborations on Data, Technology and civic projects .   
 
 
  📫 Reach on [Twitter](https://twitter.com/RobinKiplangat)
